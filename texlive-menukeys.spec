@@ -1,11 +1,11 @@
-# revision 25489
+# revision 25533
 # category Package
 # catalog-ctan /macros/latex/contrib/menukeys
-# catalog-date 2012-02-24 00:38:32 +0100
+# catalog-date 2012-02-27 22:41:51 +0100
 # catalog-license lppl1.2
-# catalog-version 1.0
+# catalog-version 1.1
 Name:		texlive-menukeys
-Version:	1.0
+Version:	1.1
 Release:	1
 Summary:	Format menu sequences, paths and keystrokes from lists
 Group:		Publishing
