@@ -53,3 +53,27 @@ providing different styles and colour themes.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1b-1
++ Revision: 804940
+- Update to latest release.
+
+* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1a-1
++ Revision: 790682
+- Update to latest release.
+
+* Fri Mar 09 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.1-2
++ Revision: 783481
+- rebuild without scriptlet dependencies
+
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1
++ Revision: 783052
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
++ Revision: 780495
+- Import texlive-menukeys
+- Import texlive-menukeys
+
