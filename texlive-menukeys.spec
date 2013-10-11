@@ -1,11 +1,11 @@
-# revision 25919
+# revision 31716
 # category Package
 # catalog-ctan /macros/latex/contrib/menukeys
-# catalog-date 2012-04-11 11:11:10 +0200
+# catalog-date 2013-09-21 14:43:01 +0200
 # catalog-license lppl1.2
-# catalog-version 1.1b
+# catalog-version 1.2a
 Name:		texlive-menukeys
-Version:	1.1b
+Version:	1.2a
 Release:	1
 Summary:	Format menu sequences, paths and keystrokes from lists
 Group:		Publishing
@@ -23,7 +23,7 @@ Requires(post):	texlive-kpathsea
 The package allows easy input and formatting of menu sequences,
 using menus set with commands such as \menu{Extras > Settings >
 General}, paths using a command like
-\path{macros/latex/contrib/menukeys} and short cuts such aas
+\path{macros/latex/contrib/menukeys} and short cuts such as
 \keys{\ctrl + C}. The output is highly configurable by
 providing different styles and colour themes.
 
@@ -53,27 +53,3 @@ providing different styles and colour themes.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1b-1
-+ Revision: 804940
-- Update to latest release.
-
-* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1a-1
-+ Revision: 790682
-- Update to latest release.
-
-* Fri Mar 09 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.1-2
-+ Revision: 783481
-- rebuild without scriptlet dependencies
-
-* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1
-+ Revision: 783052
-- Update to latest release.
-
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
-+ Revision: 780495
-- Import texlive-menukeys
-- Import texlive-menukeys
-
