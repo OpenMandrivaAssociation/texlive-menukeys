@@ -6,7 +6,7 @@
 # catalog-version 1.1b
 Name:		texlive-menukeys
 Version:	1.1b
-Release:	1
+Release:	2
 Summary:	Format menu sequences, paths and keystrokes from lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/menukeys
