@@ -5,8 +5,8 @@
 # catalog-license lppl1.2
 # catalog-version 1.3
 Name:		texlive-menukeys
-Version:	1.30
-Release:	5
+Version:	1.5
+Release:	1
 Summary:	Format menu sequences, paths and keystrokes from lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/menukeys
