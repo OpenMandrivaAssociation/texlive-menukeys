@@ -3,7 +3,7 @@ Version:	64314
 Release:	2
 Summary:	Format menu sequences, paths and keystrokes from lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/menukeys
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/menukeys
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/menukeys.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/menukeys.doc.r%{version}.tar.xz
